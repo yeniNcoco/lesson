@@ -1,0 +1,6 @@
+Candy Name, Candy Calories, Total Fat Grams
+Jelly Belly, 100, 5
+Snickers, 120, 5
+Chupa Chups, 80, 5
+Godiva, 160, 5
+Haribo, 130, 5
